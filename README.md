@@ -13,5 +13,5 @@ The primary objective is to provide insights into the relative performance of sa
 
 ## Dashboard Preview :
 
-<img src="Images/PowerBi- Retail 365 Markets Report - Dashboard-1.png">
-<img src="Images/PowerBi- Retail 365 Markets Report - Dashboard-2.png">
+<img src="Images/Dashboard 1.png">
+<img src="Images/Dashboard 2.png">
