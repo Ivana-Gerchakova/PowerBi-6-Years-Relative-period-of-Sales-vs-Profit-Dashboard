@@ -1,6 +1,6 @@
 # Project Title :
 
-PowerBi-6 Years Relative period of Sales vs Profit Dashboard
+PowerBi-6 Years Relative period of Sales vs Profit Dashboard.
 
 ## Project Overview :
 This Power BI project focuses on analyzing the sales and profit trends over a period of six years. 
